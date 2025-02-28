@@ -1,4 +1,4 @@
-# Weight Normalized GAN
+# coocmap
 Code for the paper "[On the Effects of Batch and Weight Normalization in Generative Adversarial Networks]( https://arxiv.org/abs/1704.03971)".
 
 ## About the code
